@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/mocha/bin/mocha tests/UtilTest.js",
+    "test": "./node_modules/mocha/bin/mocha tests/** --reporter mocha-junit-reporter",
     "start": "node app.js"
   },
   "author": "",
