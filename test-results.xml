@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.029" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2018-02-08T05:49:10" tests="0" failures="0" time="0">
+  </testsuite>
+  <testsuite name="Books" timestamp="2018-02-08T05:49:10" tests="0" file="/Users/seto/Documents/workspace/jenkinsTest/test/book.js" failures="0" time="0">
+  </testsuite>
+  <testsuite name="/GET book" timestamp="2018-02-08T05:49:10" tests="1" file="/Users/seto/Documents/workspace/jenkinsTest/test/book.js" failures="0" time="0.029">
+    <testcase name="Books /GET book it should GET all the books" time="0.029" classname="it should GET all the books">
+    </testcase>
+  </testsuite>
+</testsuites>
